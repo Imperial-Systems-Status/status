@@ -2,6 +2,7 @@
   "name": "issue-status",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://imperial-Systems-Status.github.io/status",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
